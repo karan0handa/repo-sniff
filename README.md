@@ -1,2 +1,3 @@
-# repo-sniff
-Enter the name of a GitHub repo and get a quick sniff of insight!
+# repo-sniff [WIP]
+
+Enter a GitHub repository and get high level details like tech stack, number of lines, number of files, sub-packages, etc.
